@@ -1,0 +1,3 @@
+# tutor-contrib-ltistore patch
+RUN $PIP_COMMAND install '{{ LTISTORE_PLUGIN }}'
+# End of tutor-contrib-ltistore patch

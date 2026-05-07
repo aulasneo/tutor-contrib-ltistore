@@ -1,0 +1,2 @@
+recursive-include tutorltistore/patches *
+recursive-include tutorltistore/templates *
