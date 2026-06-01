@@ -1,4 +1,8 @@
 # tutor-contrib-ltistore patch
+OPEN_EDX_FILTERS_CONFIG = globals().get(
+    "OPEN_EDX_FILTERS_CONFIG",
+    {}
+)
 OPEN_EDX_FILTERS_CONFIG.setdefault(
     "org.openedx.xblock.lti_consumer.configuration.listed.v1",
     {
