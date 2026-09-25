@@ -1,0 +1,21 @@
+.github/workflows/test.yml
+  s_59b19a8f176960::t_e0cb1e6fd2285a 16
+.github/workflows/publish.yml
+  s_59b19a8f176960::t_e0cb1e6fd2285a 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "af76addf80f8a1993be31a59c0b46907c6c2acab",
+  "prompts": {},
+  "sessions": {
+    "s_59b19a8f176960": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07459-cfb2-7ea1-a63d-2d93f8baf685",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
