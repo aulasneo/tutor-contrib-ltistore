@@ -1,0 +1,14 @@
+.github/workflows/test.yml
+  h_67430f944e00e2 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc602b6209b2a219bdfea4ba80440323295e6bf3",
+  "prompts": {},
+  "humans": {
+    "h_67430f944e00e2": {
+      "author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
