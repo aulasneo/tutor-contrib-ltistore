@@ -1,6 +1,6 @@
 # Change Log
 
-## Unreleased
+## Version 22.0.0 (2026-09-25)
 - feat: Upgrade to Tutor 22, Verawood.
 
 ## Version 21.0.1 (2026-06-01)
